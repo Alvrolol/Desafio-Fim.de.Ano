@@ -19,8 +19,15 @@ Ao negar o uso de recursos externos, os participantes serão desafiados a compre
 
 
 ## Regras do Desafio
+- O projeto deve ser entregue até dia 6 de Janeiro;
 - Não é permitido o uso de Frameworks;
 - Não é permitido o uso de Bibliotecas;
 - Não é permitido usar API's de terceiros;
 - Não é permitido usar IDE's além de editores de texto (VSCode, IntelliJ, etc.);
-- O código do jogo deve ser obrigatóriamente documentado;
+
+
+## Requisitos Técnicos
+- O código do jogo têm que ser documentado;
+- O jogo não deve ter mais que 30kb;
+- O jogo deve ser capaz de rodar em Windows e Debian;
+- O jogo deve ter um ou mais paradigmas.
