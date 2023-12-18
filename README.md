@@ -5,7 +5,7 @@ Vamos olhar para trás e prestar atenção nas raízes que mudaram não só a in
 
 
 ## O que são jogos de texto?
-Estes jogos eram baseados em palavras e comandos de texto simples. <br>
+Eles eram baseados em texto e os jogadores interagiam digitando comandos simples para explorar ambientes imaginários, resolver enigmas e avançar na história. Sem gráficos, esses jogos dependiam da criatividade dos jogadores para visualizar os cenários descritos e eram conhecidos por suas narrativas envolventes e desafios lógicos. <br>
 Vejamos o "Adventure": <br><br>
 ![Adventure](https://github.com/Ismael-Moreira-Kt/Desafio-Fim.de.Ano/assets/154206380/378f6926-430b-4be9-81f7-e2b6289bc063) <br>
 Adventure foi um jogo criado em 1975 pelo incrível <a href="https://en.wikipedia.org/wiki/William_Crowther_%28programmer%29">William Crowther</a>, um pioneiro entre os desenvolvedores de jogos. <br>
@@ -37,7 +37,7 @@ Ao negar o uso de recursos externos, os participantes serão desafiados a compre
 <br><br>
 
 
-## Bónus:
+## Requisitos Bónus:
 - O jogo deve seguir o clean code;
 - O jogo deve seguir pelo menos uma das caracteristicas SOLID;
 - O jogo deve ter uma interface;
