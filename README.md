@@ -52,6 +52,24 @@ Ao negar o uso de recursos externos, os participantes serão desafiados a compre
 - O que são <a href="https://guia.dev/pt/pillars/languages-and-tools/programming-paradigms.html">Paradigmas</a>;
 - O que é <a href="https://www.hostgator.com.br/blog/clean-code-o-que-e/">Clean Code</a>;
 - O que é <a href="https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530">SOLID</a>;
-- O que é <a href="https://blog.cronapp.io/persistencia-de-dados/">Persistência de Dados</a>
-- Dicas para automatizar <a href="https://www.vsoft.com.br/post/automacao-desenvolvimento-software">testes</a> no desenvolvimento de software;
-- 
+- O que é <a href="https://blog.cronapp.io/persistencia-de-dados/">Persistência de Dados</a>;
+- Dicas para automatizar <a href="https://www.vsoft.com.br/post/automacao-desenvolvimento-software">testes</a> no desenvolvimento de software.
+
+
+## Modelo de Submissão
+- Documentação:
+    - Como executar o jogo; 
+    - Explicação da estrutura do código;
+    - Detalhes sobre os paradigmas utilizados;
+    - Considerações sobre a implementação;
+    - Outras informações relevantes;
+- Entrega:
+    - Faça um Fork;
+    - Clone o Repositório Forked;
+    - Desenvolva o seu jogo;
+    - Commit e Push das Alterações;
+    - Submissão do Projeto:
+        - Acesse o seu repositório forked no GitHub.
+        - Clique no botão "Pull Request".
+        - Selecione o repositório original como base para a comparação (base repository).
+        - Envie o pull request com o título adequado, incluindo informações relevantes, se necessário.
