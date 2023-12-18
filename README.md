@@ -21,7 +21,7 @@ Ao negar o uso de recursos externos, os participantes serão desafiados a compre
 
 
 ## Regras do Desafio
-- O projeto deve ser entregue até dia 6 de Janeiro;
+- O projeto deve ser entregue até dia 1 de Fevereiro;
 - Não é permitido o uso de Frameworks;
 - Não é permitido o uso de Bibliotecas;
 - Não é permitido usar API's de terceiros;
@@ -67,7 +67,7 @@ Ao negar o uso de recursos externos, os participantes serão desafiados a compre
 - Entrega:
     - Faça um Fork;
     - Clone o Repositório Forked;
-    - Desenvolva o seu jogo;
+    - Desenvolva o seu jogo na pasta Projetos;
     - Commit e Push das Alterações;
     - Submissão do Projeto:
         - Acesse o seu repositório forked no GitHub.
