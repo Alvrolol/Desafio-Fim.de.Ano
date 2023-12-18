@@ -31,7 +31,7 @@ Ao negar o uso de recursos externos, os participantes serão desafiados a compre
 
 ## Requisitos Técnicos
 - O código do jogo têm que ser documentado;
-- O jogo não deve ter mais que 30kb;
+- O jogo não deve ter menos que 30kb;
 - O jogo deve ser capaz de rodar em Windows e Debian;
 - O jogo deve ter um ou mais paradigmas.
 <br><br>
