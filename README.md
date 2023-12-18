@@ -31,3 +31,11 @@ Ao negar o uso de recursos externos, os participantes serão desafiados a compre
 - O jogo não deve ter mais que 30kb;
 - O jogo deve ser capaz de rodar em Windows e Debian;
 - O jogo deve ter um ou mais paradigmas.
+
+
+## Bónus:
+- O jogo deve seguir o clean code;
+- O jogo deve seguir pelo menos uma das caracteristicas SOLID;
+- O jogo deve ter uma interface;
+- O jogo deve ter persistência de dados;
+- O jogo deve ter testes automatizados.
