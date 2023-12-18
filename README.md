@@ -47,4 +47,11 @@ Ao negar o uso de recursos externos, os participantes serão desafiados a compre
 
 
 ## Referências Úteis:
-- Coódigo fonte do <a href="https://github.com/wh0am1-dev/adventure/tree/master/src">Adventure</a> recriado;
+- Código fonte do <a href="https://github.com/wh0am1-dev/adventure/tree/master/src">Adventure</a> recriado;
+- Como <a href="https://www.supero.com.br/blog/como-documentar-softwares/">documentar</a> software;
+- O que são <a href="https://guia.dev/pt/pillars/languages-and-tools/programming-paradigms.html">Paradigmas</a>;
+- O que é <a href="https://www.hostgator.com.br/blog/clean-code-o-que-e/">Clean Code</a>;
+- O que é <a href="https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530">SOLID</a>;
+- O que é <a href="https://blog.cronapp.io/persistencia-de-dados/">Persistência de Dados</a>
+- Dicas para automatizar <a href="https://www.vsoft.com.br/post/automacao-desenvolvimento-software">testes</a> no desenvolvimento de software;
+- 
