@@ -54,6 +54,7 @@ Ao negar o uso de recursos externos, os participantes serão desafiados a compre
 - O que é <a href="https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530">SOLID</a>;
 - O que é <a href="https://blog.cronapp.io/persistencia-de-dados/">Persistência de Dados</a>;
 - Dicas para automatizar <a href="https://www.vsoft.com.br/post/automacao-desenvolvimento-software">testes</a> no desenvolvimento de software.
+<br><br>
 
 
 ## Modelo de Submissão
@@ -73,3 +74,15 @@ Ao negar o uso de recursos externos, os participantes serão desafiados a compre
         - Clique no botão "Pull Request".
         - Selecione o repositório original como base para a comparação (base repository).
         - Envie o pull request com o título adequado, incluindo informações relevantes, se necessário.
+<br><br>
+
+
+## Agradecimentos
+Gostaria de agradecer por dedicar seu tempo à leitura deste desafio e espero sinceramente que tenha achado interessante para o seu desenvolvimento profissional e pessoal. <br>
+Espero ansiosamente pelos projetos incríveis que serão submetidos e pelo potencial de aprendizado que este desafio pode proporcionar a todos os participantes. <br>
+Desejo a todos um excelente desenvolvimento nos seus projetos, muita criatividade na implementação dos jogos de texto e um próspero ano novo cheio de novas conquistas e aprendizados na área da programação. <br>
+Se tiver alguma dúvida e quiser falar comigo sobre o projeto, não exite em <a href="https://www.instagram.com/ismael_moreira_003/">contactar-me</a>.
+<br><br>
+
+
+Keep coding.
