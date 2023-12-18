@@ -8,7 +8,7 @@ Vamos olhar para trás e prestar atenção nas raízes que mudaram não só a in
 Eles eram baseados em texto e os jogadores interagiam digitando comandos simples para explorar ambientes imaginários, resolver enigmas e avançar na história. Sem gráficos, esses jogos dependiam da criatividade dos jogadores para visualizar os cenários descritos e eram conhecidos por suas narrativas envolventes e desafios lógicos. <br>
 Vejamos o "Adventure": <br><br>
 ![Adventure](https://github.com/Ismael-Moreira-Kt/Desafio-Fim.de.Ano/assets/154206380/378f6926-430b-4be9-81f7-e2b6289bc063) <br>
-Adventure foi um jogo criado em 1975 pelo incrível <a href="https://en.wikipedia.org/wiki/William_Crowther_%28programmer%29">William Crowther</a>, um pioneiro entre os desenvolvedores de jogos. <br>
+Adventure foi um jogo criado em 1975 pelo incrível <a target="_blank" href="https://en.wikipedia.org/wiki/William_Crowther_%28programmer%29">William Crowther</a>, um pioneiro entre os desenvolvedores de jogos. <br>
 O jogo foi inspirado nas experiências reais dele como espeleólogo e foi desenvolvido como uma representação virtual de uma caverna que ele havia explorado, conhecida como Mammoth Cave, no estado de Kentucky, EUA. <br>
 O jogo descrevia uma série de salas interligadas, cada uma com sua própria descrição textual e desafios a serem superados. O objetivo era explorar o ambiente, coletar itens, superar obstáculos e resolver quebra-cabeças para progredir na exploração da caverna.
 <br><br>
@@ -47,13 +47,13 @@ Ao negar o uso de recursos externos, os participantes serão desafiados a compre
 
 
 ## Referências Úteis:
-- Código fonte do <a href="https://github.com/wh0am1-dev/adventure/tree/master/src">Adventure</a> recriado;
-- Como <a href="https://www.supero.com.br/blog/como-documentar-softwares/">documentar</a> software;
-- O que são <a href="https://guia.dev/pt/pillars/languages-and-tools/programming-paradigms.html">Paradigmas</a>;
-- O que é <a href="https://www.hostgator.com.br/blog/clean-code-o-que-e/">Clean Code</a>;
-- O que é <a href="https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530">SOLID</a>;
-- O que é <a href="https://blog.cronapp.io/persistencia-de-dados/">Persistência de Dados</a>;
-- Dicas para automatizar <a href="https://www.vsoft.com.br/post/automacao-desenvolvimento-software">testes</a> no desenvolvimento de software.
+- Código fonte do <a target="_blank" href="https://github.com/wh0am1-dev/adventure/tree/master/src">Adventure</a> recriado;
+- Como <a target="_blank" href="https://www.supero.com.br/blog/como-documentar-softwares/">documentar</a> software;
+- O que são <a target="_blank" href="https://guia.dev/pt/pillars/languages-and-tools/programming-paradigms.html">Paradigmas</a>;
+- O que é <a target="_blank" href="https://www.hostgator.com.br/blog/clean-code-o-que-e/">Clean Code</a>;
+- O que é <a target="_blank" href="https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530">SOLID</a>;
+- O que é <a target="_blank" href="https://blog.cronapp.io/persistencia-de-dados/">Persistência de Dados</a>;
+- Dicas para automatizar <a target="_blank" href="https://www.vsoft.com.br/post/automacao-desenvolvimento-software">testes</a> no desenvolvimento de software.
 <br><br>
 
 
@@ -81,7 +81,7 @@ Ao negar o uso de recursos externos, os participantes serão desafiados a compre
 Gostaria de agradecer por dedicar seu tempo à leitura deste desafio e espero sinceramente que tenha achado interessante para o seu desenvolvimento profissional e pessoal. <br>
 Espero ansiosamente pelos projetos incríveis que serão submetidos e pelo potencial de aprendizado que este desafio pode proporcionar a todos os participantes. <br>
 Desejo a todos um excelente desenvolvimento nos seus projetos, muita criatividade na implementação dos jogos de texto e um próspero ano novo cheio de novas conquistas e aprendizados na área da programação. <br>
-Se tiver alguma dúvida e quiser falar comigo sobre o projeto, não exite em <a href="https://www.instagram.com/ismael_moreira_003/">contactar-me</a>.
+Se tiver alguma dúvida e quiser falar comigo sobre o projeto, não exite em <a target="_blank" href="https://www.instagram.com/ismael_moreira_003/">contactar-me</a>.
 <br><br>
 
 
